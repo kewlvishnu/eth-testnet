@@ -1,0 +1,11 @@
+ecdsa
+pysha3>=1.0.2
+gitpython
+grpcio
+grpcio-tools
+protobuf
+supermutes
+requests
+PyYAML
+boto3
+botocore
